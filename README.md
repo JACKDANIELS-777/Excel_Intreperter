@@ -4,8 +4,7 @@ It works it has variables, loops etc. I havent put alot of time into it and if y
 
 
 
-"if_statement_cell_val;
-
+"if_statement_cell_val; 
 a2;=;10;[
     print;b1;10;
     if_statement_cell_val;
