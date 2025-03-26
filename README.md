@@ -12,4 +12,4 @@ a2;=;10;[
 ];
 "
 
-this is valid code mabye it will help you figure out the rest of the syntax. The above Highlights that nesting is possible etc.
+this is valid code maybe it will help you figure out the rest of the syntax. The above Highlights that nesting is possible etc.
