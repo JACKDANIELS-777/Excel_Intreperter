@@ -4,9 +4,12 @@ It works it has variables, loops etc. I havent put alot of time into it and if y
 
 
 
-if_statement_cell_val;
+"if_statement_cell_val;\n
 a2;=;10;[
-print;b1;10;if_statement_cell_val;
-a2;=;10;[print;c1;10;];];
+    print;b1;10;
+    if_statement_cell_val;
+    b1;=;10;[print;c1;10;];
+];
+"
 
 this is valid code mabye it will help you figure out the rest of the syntax. The above Highlights that nesting is possible etc.
